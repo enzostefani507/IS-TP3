@@ -7,6 +7,7 @@ cache:
 script:
   - npm run build
   - npm test
+  - sonar-scanner
 deploy:
   provider: pages
   skip_cleanup: true
@@ -16,3 +17,10 @@ deploy:
     branch: main
 notifications:
   slack: is-tp3:nkCXTVx7Ohsbhtuo5OsxsVBI
+addons:
+  sonarcloud:
+    organization: "enzostefani507" # the key of the org you chose at step #3
+    token:
+      secure: "80e67d75a2c523f1a2f1ead8b94f521d83e4573c" # encrypted value of your token
+git:
+  depth: false
