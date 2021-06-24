@@ -10,6 +10,6 @@ deploy:
   provider: pages
   skip_cleanup: true
   local_dir: build
-  github_token: $travis-ci-is 
+  github_token: $github_token
   on:
     branch: main
