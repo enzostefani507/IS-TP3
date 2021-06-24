@@ -7,8 +7,8 @@ test('este texto debe estar presente en la pagina', () => {
   expect(linkElement).toBeInTheDocument();
 });
 
-test('este texto no debe estar presente en la pagina', () => {
+test('este texto No debe estar presente en la pagina', () => {
   render(<App />);
-  const linkElement = screen.getByText(/No hay que sacar esta materia/);
-  !expect(linkElement).toBeInTheDocument();
+  const linkElement = !screen.getByText(/No hay que sacar esta materia/);
+  expect(linkElement).toBeInTheDocument();
 });
