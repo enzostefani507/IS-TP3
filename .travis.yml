@@ -17,6 +17,7 @@ deploy:
     branch: main
 notifications:
   slack: is-tp3:nkCXTVx7Ohsbhtuo5OsxsVBI
+dist: xenial
 addons:
   sonarcloud:
     organization: "enzostefani507" # the key of the org you chose at step #3
