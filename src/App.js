@@ -7,9 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Ingeniería de software</h1>
-        <h2>La mejor materia</h2>
-        <h3>Probando</h3>
-        <h4>otro cambio</h4>
+        <p>Es la mejor materia</p>
+        <p>No hay que sacar esta materia</p>
       </header>
     </div>
   );
