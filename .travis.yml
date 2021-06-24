@@ -21,6 +21,6 @@ addons:
   sonarcloud:
     organization: "enzostefani507" # the key of the org you chose at step #3
     token:
-      secure: "80e67d75a2c523f1a2f1ead8b94f521d83e4573c" # encrypted value of your token
+      secure: ${SONAR_TOKEN}
 git:
   depth: false
