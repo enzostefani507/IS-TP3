@@ -9,6 +9,7 @@ function App() {
         <h1>Ingeniería de software</h1>
         <h2>La mejor materia</h2>
         <h3>Probando</h3>
+        <h4>otro cambio</h4>
       </header>
     </div>
   );
