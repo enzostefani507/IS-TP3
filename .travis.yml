@@ -13,3 +13,5 @@ deploy:
   github_token: $github_token
   on:
     branch: main
+notifications:
+  slack: is-tp3:nkCXTVx7Ohsbhtuo5OsxsVBI
