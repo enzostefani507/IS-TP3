@@ -16,3 +16,7 @@ deploy:
     branch: main
 notifications:
   slack: is-tp3:nkCXTVx7Ohsbhtuo5OsxsVBI
+addons:
+  sonarcloud: 
+    organization: 'enzostefani507'
+    token: 6c5f3ef0e8de37c5a21ac66f3ba1d6e1eff61b91
