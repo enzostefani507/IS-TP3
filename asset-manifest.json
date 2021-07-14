@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/IS-TP3/static/css/main.8b971b65.chunk.css",
+    "main.js": "/IS-TP3/static/js/main.da69d9ca.chunk.js",
+    "main.js.map": "/IS-TP3/static/js/main.da69d9ca.chunk.js.map",
+    "runtime-main.js": "/IS-TP3/static/js/runtime-main.abea3d32.js",
+    "runtime-main.js.map": "/IS-TP3/static/js/runtime-main.abea3d32.js.map",
+    "static/js/2.98f7203c.chunk.js": "/IS-TP3/static/js/2.98f7203c.chunk.js",
+    "static/js/2.98f7203c.chunk.js.map": "/IS-TP3/static/js/2.98f7203c.chunk.js.map",
+    "static/js/3.540b3632.chunk.js": "/IS-TP3/static/js/3.540b3632.chunk.js",
+    "static/js/3.540b3632.chunk.js.map": "/IS-TP3/static/js/3.540b3632.chunk.js.map",
+    "index.html": "/IS-TP3/index.html",
+    "static/css/main.8b971b65.chunk.css.map": "/IS-TP3/static/css/main.8b971b65.chunk.css.map",
+    "static/js/2.98f7203c.chunk.js.LICENSE.txt": "/IS-TP3/static/js/2.98f7203c.chunk.js.LICENSE.txt",
+    "static/media/postureo.30c9eb5b.png": "/IS-TP3/static/media/postureo.30c9eb5b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abea3d32.js",
+    "static/js/2.98f7203c.chunk.js",
+    "static/css/main.8b971b65.chunk.css",
+    "static/js/main.da69d9ca.chunk.js"
+  ]
+}
